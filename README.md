@@ -1,2 +1,2 @@
 # PuBgProLox
-Jagonya ayam
+Simple 2D Pubg Game with the implementation of Prolog
